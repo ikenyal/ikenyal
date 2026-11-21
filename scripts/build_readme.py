@@ -26,7 +26,7 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 USER = "ikenyal"
-COLUMNS = 2
+COLUMNS = 3
 
 LINK_LABELS = [
     ("repo", "Repo"),
@@ -86,7 +86,7 @@ def card(item: dict) -> str:
     if links:
         lines.append(f"<sub>{' · '.join(links)}</sub>")
 
-    return '<td width="50%" valign="top">\n' + "\n".join(lines) + "\n</td>"
+    return f'<td width="{100 // COLUMNS}%" valign="top">\n' + "\n".join(lines) + "\n</td>"
 
 
 def build_hackathons() -> str:
@@ -100,7 +100,7 @@ def build_hackathons() -> str:
     for i in range(0, len(items), COLUMNS):
         cells = [card(item) for item in items[i : i + COLUMNS]]
         while len(cells) < COLUMNS:
-            cells.append('<td width="50%"></td>')
+            cells.append(f'<td width="{100 // COLUMNS}%"></td>')
         rows.append("<tr>\n" + "\n".join(cells) + "\n</tr>")
     return "<table>\n" + "\n".join(rows) + "\n</table>"
 
@@ -200,6 +200,12 @@ def main() -> None:
 
     readme = README.read_text()
     readme = replace_section(readme, "HACKATHONS", build_hackathons())
+    count = len(yaml.safe_load((ROOT / "data/hackathons.yml").read_text()) or [])
+    readme = re.sub(
+        r"<!-- HACKATHON_COUNT:START -->.*?<!-- HACKATHON_COUNT:END -->",
+        f"<!-- HACKATHON_COUNT:START -->{count} projects so far.<!-- HACKATHON_COUNT:END -->",
+        readme,
+    )
 
     if not args.skip_oss:
         token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")

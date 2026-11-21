@@ -15,51 +15,49 @@ Engineering leader in Japan. I lead platform teams, build AI agents on AWS, cont
 
 ### Hackathon gallery
 
-<sub>Click a thumbnail to watch the demo video.</sub>
+<sub><!-- HACKATHON_COUNT:START -->8 projects so far.<!-- HACKATHON_COUNT:END --> Click a thumbnail to watch the demo video.</sub>
 
 <!-- HACKATHONS:START -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://youtu.be/xcE3E--qAE0"><img src="https://img.youtube.com/vi/xcE3E--qAE0/mqdefault.jpg" width="100%" alt="Standby"></a><br>
 <b><a href="https://github.com/ikenyal/standby">Standby</a></b><br>
 <sub>AWS Builder Center Weekend Challenge: No Pipeline, No Problem · 2026-11</sub><br>
 The waitlist that lives in your calendar — seats move with calendar RSVPs.<br>
 <sub><a href="https://github.com/ikenyal/standby">Repo</a> · <a href="https://youtu.be/xcE3E--qAE0">Video</a> · <a href="https://builder.aws.com/project/3M4qv613iRXJUDPp40hxylRIoEe/standby-the-waitlist-that-lives-in-your-calendar">Builder Center</a></sub>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://youtu.be/H2C7ndx9C8c"><img src="https://img.youtube.com/vi/H2C7ndx9C8c/mqdefault.jpg" width="100%" alt="spec-lantern"></a><br>
 <b><a href="https://github.com/ikenyal/spec-lantern">spec-lantern</a></b><br>
 <sub>Kiroween 2026 (Resurrection) · 2026-11</sub><br>
 Don&#x27;t trust the comment. Test it. A Kiro Power that executes the claims comments make.<br>
 <sub><a href="https://github.com/ikenyal/spec-lantern">Repo</a> · <a href="https://d2xayupxggkiqt.cloudfront.net/">Demo</a> · <a href="https://youtu.be/H2C7ndx9C8c">Video</a> · <a href="https://devpost.com/software/spec-lantern">Devpost</a> · <a href="https://dev.to/aws-builders/blocking-an-ai-agents-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-steering-i90">Article</a></sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://youtu.be/g-c1zFYKtQg"><img src="https://img.youtube.com/vi/g-c1zFYKtQg/mqdefault.jpg" width="100%" alt="Kokoroe"></a><br>
 <b><a href="https://github.com/ikenyal/kokoroe">Kokoroe</a></b><br>
 <sub>Built with Claude: Japan 2026 · 2026-11</sub><br>
 An AI apprentice that inherits the unwritten etiquette of business, one correction at a time.<br>
 <sub><a href="https://github.com/ikenyal/kokoroe">Repo</a> · <a href="https://kokoroe.xzan0gz3dgpb8.ap-northeast-1.cs.amazonlightsail.com/">Demo</a> · <a href="https://youtu.be/g-c1zFYKtQg">Video</a></sub>
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="33%" valign="top">
 <a href="https://youtu.be/vdDsHZdrnAI"><img src="https://img.youtube.com/vi/vdDsHZdrnAI/mqdefault.jpg" width="100%" alt="Brownout"></a><br>
 <b><a href="https://github.com/ikenyal/brownout">Brownout</a></b><br>
 <sub>Strands SDK: Workshop to Ship · 2026-11</sub><br>
 When disaster strikes, a city website should get lighter, not go down.<br>
 <sub><a href="https://github.com/ikenyal/brownout">Repo</a> · <a href="https://d3u5pnxb6mo4pr.cloudfront.net/">Demo</a> · <a href="https://youtu.be/vdDsHZdrnAI">Video</a> · <a href="https://builder.aws.com/project/3LTPNT7Xv23bBrmWVM6biX0sjev/brownout-an-ai-agent-that-makes-a-city-website-lighter-as-a-disaster-gets-worse">Builder Center</a> · <a href="https://builder.aws.com/content/3MFOOYp749rNC6I3z7hCrpABPRN/when-a-flood-alert-is-issued-serve-one-small-emergency-page-on-every-url-cloudfront-keyvaluestore-a-template-and-an-ai-agent-kept-off-the-critical-path">Article</a></sub>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://youtu.be/e_NYVXOEmB8"><img src="https://img.youtube.com/vi/e_NYVXOEmB8/mqdefault.jpg" width="100%" alt="Ping Guessr"></a><br>
 <b><a href="https://github.com/ikenyal/ping-guessr">Ping Guessr</a></b><br>
 <sub>AWS Builder Center Weekend Challenge: Map it · 2026-10</sub><br>
 Guess which AWS Region is behind a ping time — a map made of milliseconds.<br>
 <sub><a href="https://github.com/ikenyal/ping-guessr">Repo</a> · <a href="https://main.d9yfexyaaygj6.amplifyapp.com">Demo</a> · <a href="https://youtu.be/e_NYVXOEmB8">Video</a> · <a href="https://builder.aws.com/project/3LQyC2MMpISqFAqZkiW0wpRgnmw/ping-guessr-a-map-made-of-milliseconds">Builder Center</a></sub>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://youtu.be/T8Q7sD_7cb0"><img src="https://img.youtube.com/vi/T8Q7sD_7cb0/mqdefault.jpg" width="100%" alt="Open Yet?"></a><br>
 <b><a href="https://github.com/ikenyal/open-yet">Open Yet?</a></b> &nbsp;🏆 Top 5<br>
 <sub>AWS Builder Center Weekend Challenge: Give your Agent a Tool · 2026-10</sub><br>
@@ -68,20 +66,21 @@ An agent that tells you whether you can post your challenge entry right now — 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://youtu.be/24JUh9kNzmo"><img src="https://img.youtube.com/vi/24JUh9kNzmo/mqdefault.jpg" width="100%" alt="Countersign"></a><br>
 <b><a href="https://github.com/ikenyal/countersign">Countersign</a></b><br>
 <sub>AWS Builder Center Agent Experience Hackathon · 2026-10</sub><br>
 Two agents settle the routine agreements. Humans countersign only the ones that matter.<br>
 <sub><a href="https://github.com/ikenyal/countersign">Repo</a> · <a href="https://youtu.be/24JUh9kNzmo">Video</a> · <a href="https://builder.aws.com/project/3KoFdx3v9KsrgiT719i93lqIVwn/countersign-agents-settle-the-routine-agreements-humans-sign-only-the-ones-that-matter">Builder Center</a></sub>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 <a href="https://builder.aws.com/project/3JYtSJfGnxyg7FN1WvHhaBfMeEE/firsthand-the-cli-said-yes-the-api-said-no"><img src="assets/firsthand.svg" width="100%" alt="Firsthand"></a><br>
 <b><a href="https://builder.aws.com/project/3JYtSJfGnxyg7FN1WvHhaBfMeEE/firsthand-the-cli-said-yes-the-api-said-no">Firsthand</a></b><br>
 <sub>AWS Builder Center: Zero to Shipped · 2026-09</sub><br>
 The CLI said yes, the API said no.<br>
 <sub><a href="https://builder.aws.com/project/3JYtSJfGnxyg7FN1WvHhaBfMeEE/firsthand-the-cli-said-yes-the-api-said-no">Builder Center</a></sub>
 </td>
+<td width="33%"></td>
 </tr>
 </table>
 <!-- HACKATHONS:END -->
