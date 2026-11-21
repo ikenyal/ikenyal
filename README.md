@@ -1,8 +1,9 @@
 ## Hi, I'm Kento Ikeda (ikenyal)
 
-Platform engineering lead and CTO in Japan. I build AI agents on AWS, contribute to [CDK Blocks](https://github.com/aws/cdk-blocks) and [Strands Agents](https://github.com/strands-agents), and spend weekends on hackathons.
+Engineering leader in Japan. I build AI agents on AWS, contribute to [CDK Blocks](https://github.com/aws/cdk-blocks) and [Strands Agents](https://github.com/strands-agents), and spend weekends on hackathons.
 
-- Head of Platform Engineering at **GENDA** / CTO at **ZINE Inc.**
+- General Manager, Platform Engineering at **GENDA Inc.**
+- Representative of **BrightFlow LLC** / CTO at **ZINE Inc.**
 - AWS Community Builder (Dev Tools) / AWS Amplify Japan User Group leader
 - Previously: CTO office & CISO office at ZOZO, Yahoo! JAPAN
 
@@ -10,7 +11,7 @@ Platform engineering lead and CTO in Japan. I build AI agents on AWS, contribute
 <summary>🇯🇵 日本語</summary>
 <br>
 
-池田健人です。GENDAでPlatform Engineering部の部長、ZINEでCTOをしています。AWS Community Builder（Dev Tools）、AWS Amplify Japan User Groupのリーダーとして、コミュニティ運営にも関わっています。
+池田健人です。GENDAでPlatform Engineering部の部長をしながら、合同会社BrightFlowの代表、ZINEのCTOも務めています。AWS Community Builder（Dev Tools）、AWS Amplify Japan User Groupのリーダーとして、コミュニティ運営にも関わっています。
 
 最近は、AWS上で動くAIエージェントづくり、CDK Blocks・Strands AgentsへのOSSコントリビュート、週末のハッカソン参加が中心です。記事は主にZennとdev.toに書いています。
 
