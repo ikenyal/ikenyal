@@ -2,13 +2,14 @@
 
 Engineering leader in Japan. I lead platform teams, build AI agents on AWS, contribute to [CDK Blocks](https://github.com/aws/cdk-blocks) and [Strands Agents](https://github.com/strands-agents), and spend weekends on hackathons.
 
-`Engineering Management` `Platform Engineering` `SRE` `QA` `AWS` `AI Agents`
+`Engineering Management` `Platform Engineering` `SRE` `QA` `Security` `AWS` `AI Agents`
 
 - **General Manager, Platform Engineering** — leading SRE / Infrastructure, QA, Engineering Office (EM) and PjM
-- **Representative** of BrightFlow LLC — technical advisory and product development
+- **Founder & Representative Member** of BrightFlow LLC — technical advisory and product development
 - **CTO** at a startup
-- AWS Community Builder (Dev Tools) / AWS Amplify Japan User Group leader
-- Previously: set up a CTO office and a CISO office; engineer at a major Japanese internet company
+- AWS Community Builder (Dev Tools) / AWS User Group Leader (Amplify Japan User Group)
+- Board Director at NPO CancerWith / Volunteer staff at the Japan CTO Association
+- Previously: set up a CTO office and a CISO office (CSIRT); engineer and engineering manager at a major Japanese internet company
 
 [Zenn](https://zenn.dev/ikenyal) · [dev.to](https://dev.to/ikenyal) · [X](https://x.com/ikenyal) · [LinkedIn](https://www.linkedin.com/in/ikenyal/)
 
