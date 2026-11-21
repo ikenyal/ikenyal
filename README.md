@@ -1,11 +1,14 @@
 ## Hi, I'm Kento Ikeda (ikenyal)
 
-Engineering leader in Japan. I build AI agents on AWS, contribute to [CDK Blocks](https://github.com/aws/cdk-blocks) and [Strands Agents](https://github.com/strands-agents), and spend weekends on hackathons.
+Engineering leader in Japan. I lead platform teams, build AI agents on AWS, contribute to [CDK Blocks](https://github.com/aws/cdk-blocks) and [Strands Agents](https://github.com/strands-agents), and spend weekends on hackathons.
 
-- General Manager, Platform Engineering at **GENDA Inc.**
-- Representative of **BrightFlow LLC** / CTO at **ZINE Inc.**
+`Engineering Management` `Platform Engineering` `SRE` `QA` `AWS` `AI Agents`
+
+- **General Manager, Platform Engineering** at an entertainment company growing through M&A — leading SRE / Infrastructure, QA, Engineering Office (EM) and PjM
+- **Representative** of BrightFlow LLC — technical advisory and product development
+- **CTO** at a startup
 - AWS Community Builder (Dev Tools) / AWS Amplify Japan User Group leader
-- Previously: CTO office & CISO office at ZOZO, Yahoo! JAPAN
+- Previously: set up the CTO office and CISO office at a major fashion e-commerce company; worked on a major news service at a large Japanese internet company
 
 [Zenn](https://zenn.dev/ikenyal) · [dev.to](https://dev.to/ikenyal) · [X](https://x.com/ikenyal) · [LinkedIn](https://www.linkedin.com/in/ikenyal/)
 
