@@ -7,16 +7,6 @@ Engineering leader in Japan. I build AI agents on AWS, contribute to [CDK Blocks
 - AWS Community Builder (Dev Tools) / AWS Amplify Japan User Group leader
 - Previously: CTO office & CISO office at ZOZO, Yahoo! JAPAN
 
-<details>
-<summary>🇯🇵 日本語</summary>
-<br>
-
-池田健人です。GENDAでPlatform Engineering部の部長をしながら、合同会社BrightFlowの代表、ZINEのCTOも務めています。AWS Community Builder（Dev Tools）、AWS Amplify Japan User Groupのリーダーとして、コミュニティ運営にも関わっています。
-
-最近は、AWS上で動くAIエージェントづくり、CDK Blocks・Strands AgentsへのOSSコントリビュート、週末のハッカソン参加が中心です。記事は主にZennとdev.toに書いています。
-
-</details>
-
 [Zenn](https://zenn.dev/ikenyal) · [dev.to](https://dev.to/ikenyal) · [X](https://x.com/ikenyal) · [LinkedIn](https://www.linkedin.com/in/ikenyal/)
 
 ### Hackathon gallery
