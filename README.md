@@ -4,11 +4,11 @@ Engineering leader in Japan. I lead platform teams, build AI agents on AWS, cont
 
 `Engineering Management` `Platform Engineering` `SRE` `QA` `AWS` `AI Agents`
 
-- **General Manager, Platform Engineering** at an entertainment company growing through M&A — leading SRE / Infrastructure, QA, Engineering Office (EM) and PjM
+- **General Manager, Platform Engineering** — leading SRE / Infrastructure, QA, Engineering Office (EM) and PjM
 - **Representative** of BrightFlow LLC — technical advisory and product development
 - **CTO** at a startup
 - AWS Community Builder (Dev Tools) / AWS Amplify Japan User Group leader
-- Previously: set up the CTO office and CISO office at a major fashion e-commerce company; worked on a major news service at a large Japanese internet company
+- Previously: set up a CTO office and a CISO office; engineer at a major Japanese internet company
 
 [Zenn](https://zenn.dev/ikenyal) · [dev.to](https://dev.to/ikenyal) · [X](https://x.com/ikenyal) · [LinkedIn](https://www.linkedin.com/in/ikenyal/)
 
