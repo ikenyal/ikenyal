@@ -1,0 +1,26 @@
+# OSS contributions — collected automatically from merged pull requests
+# in public repositories outside my own account.
+#
+# exclude_owners: accounts/orgs to leave out (company or client repos, not OSS)
+# exclude_repos:  individual repositories to leave out
+# highlight:      repositories always shown first, in this order
+# max_repos / recent_per_repo: how much to show
+
+exclude_owners:
+  - ikenyal
+  - genda-tech
+  - genda-corporatesite
+  - genda-capital
+  - BrightFlow-LLC
+  - zine-inc
+
+exclude_repos: []
+
+highlight:
+  - aws/cdk-blocks
+  - strands-agents/harness-sdk
+  - strands-agents/shell
+  - aws-amplify-jp/awesome-aws-amplify-ja
+
+max_repos: 12
+recent_per_repo: 3

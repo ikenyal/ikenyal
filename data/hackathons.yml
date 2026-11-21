@@ -1,0 +1,82 @@
+# Hackathon gallery — add one entry per project, newest first.
+# Pushing a change to main rebuilds README.md (or run: python scripts/build_readme.py).
+#
+# Fields:
+#   name     (required) project name
+#   tagline  (required) one line, English
+#   event    (required) hackathon / challenge name
+#   date     (required) submission month, YYYY-MM
+#   result   (optional) e.g. "🏆 Top 5". Leave empty while judging or when not placed
+#   youtube  (optional) video ID — also used as the thumbnail
+#   image    (optional) thumbnail path/URL when there is no video
+#   repo / demo / devpost / project / article   (optional) links
+
+- name: Standby
+  tagline: The waitlist that lives in your calendar — seats move with calendar RSVPs.
+  event: "AWS Builder Center Weekend Challenge: No Pipeline, No Problem"
+  date: 2026-11
+  youtube: xcE3E--qAE0
+  repo: https://github.com/ikenyal/standby
+  project: https://builder.aws.com/project/3M4qv613iRXJUDPp40hxylRIoEe/standby-the-waitlist-that-lives-in-your-calendar
+
+- name: spec-lantern
+  tagline: Don't trust the comment. Test it. A Kiro Power that executes the claims comments make.
+  event: Kiroween 2026 (Resurrection)
+  date: 2026-11
+  youtube: H2C7ndx9C8c
+  repo: https://github.com/ikenyal/spec-lantern
+  demo: https://d2xayupxggkiqt.cloudfront.net/
+  devpost: https://devpost.com/software/spec-lantern
+  article: https://dev.to/aws-builders/blocking-an-ai-agents-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-steering-i90
+
+- name: Kokoroe
+  tagline: An AI apprentice that inherits the unwritten etiquette of business, one correction at a time.
+  event: "Built with Claude: Japan 2026"
+  date: 2026-11
+  youtube: g-c1zFYKtQg
+  repo: https://github.com/ikenyal/kokoroe
+  demo: https://kokoroe.xzan0gz3dgpb8.ap-northeast-1.cs.amazonlightsail.com/
+
+- name: Brownout
+  tagline: When disaster strikes, a city website should get lighter, not go down.
+  event: "Strands SDK: Workshop to Ship"
+  date: 2026-11
+  youtube: vdDsHZdrnAI
+  repo: https://github.com/ikenyal/brownout
+  demo: https://d3u5pnxb6mo4pr.cloudfront.net/
+  project: https://builder.aws.com/project/3LTPNT7Xv23bBrmWVM6biX0sjev/brownout-an-ai-agent-that-makes-a-city-website-lighter-as-a-disaster-gets-worse
+  article: https://builder.aws.com/content/3MFOOYp749rNC6I3z7hCrpABPRN/when-a-flood-alert-is-issued-serve-one-small-emergency-page-on-every-url-cloudfront-keyvaluestore-a-template-and-an-ai-agent-kept-off-the-critical-path
+
+- name: Ping Guessr
+  tagline: Guess which AWS Region is behind a ping time — a map made of milliseconds.
+  event: "AWS Builder Center Weekend Challenge: Map it"
+  date: 2026-10
+  youtube: e_NYVXOEmB8
+  repo: https://github.com/ikenyal/ping-guessr
+  demo: https://main.d9yfexyaaygj6.amplifyapp.com
+  project: https://builder.aws.com/project/3LQyC2MMpISqFAqZkiW0wpRgnmw/ping-guessr-a-map-made-of-milliseconds
+
+- name: Open Yet?
+  tagline: An agent that tells you whether you can post your challenge entry right now — in your time zone.
+  event: "AWS Builder Center Weekend Challenge: Give your Agent a Tool"
+  date: 2026-10
+  result: "🏆 Top 5"
+  youtube: T8Q7sD_7cb0
+  repo: https://github.com/ikenyal/open-yet
+  project: https://builder.aws.com/project/3L5RyY26ZApKozqF0h17bdePVzu/wait-is-it-open-yet-my-agents-new-reminder-was-an-hour-early-so-i-took-the-clock-away-from-it
+  article: https://builder.aws.com/content/3KRsW9OLGmvEMpEBrSQeDvLw7AH/open-yet-an-agent-that-tells-you-whether-you-can-post-your-challenge-entry-right-now
+
+- name: Countersign
+  tagline: Two agents settle the routine agreements. Humans countersign only the ones that matter.
+  event: AWS Builder Center Agent Experience Hackathon
+  date: 2026-10
+  youtube: 24JUh9kNzmo
+  repo: https://github.com/ikenyal/countersign
+  project: https://builder.aws.com/project/3KoFdx3v9KsrgiT719i93lqIVwn/countersign-agents-settle-the-routine-agreements-humans-sign-only-the-ones-that-matter
+
+- name: Firsthand
+  tagline: The CLI said yes, the API said no.
+  event: "AWS Builder Center: Zero to Shipped"
+  date: 2026-09
+  image: assets/firsthand.svg
+  project: https://builder.aws.com/project/3JYtSJfGnxyg7FN1WvHhaBfMeEE/firsthand-the-cli-said-yes-the-api-said-no
