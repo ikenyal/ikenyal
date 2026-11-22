@@ -19,6 +19,7 @@ import sys
 import urllib.parse
 import urllib.request
 from collections import defaultdict
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import yaml
@@ -211,7 +212,16 @@ def main() -> None:
         token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
         if not token:
             sys.exit("GITHUB_TOKEN is required for the OSS section (or use --skip-oss)")
-        readme = replace_section(readme, "OSS", build_oss(token))
+        body = build_oss(token)
+        current = re.search(r"<!-- OSS:START -->\n(.*?)\n<!-- OSS:END -->", readme, re.DOTALL)
+        if not current or current.group(1) != body:
+            today = datetime.now(timezone(timedelta(hours=9))).strftime("%Y-%m-%d")
+            readme = re.sub(
+                r"<!-- OSS_UPDATED:START -->.*?<!-- OSS_UPDATED:END -->",
+                f"<!-- OSS_UPDATED:START -->{today}<!-- OSS_UPDATED:END -->",
+                readme,
+            )
+        readme = replace_section(readme, "OSS", body)
 
     README.write_text(readme)
     print("README.md updated")

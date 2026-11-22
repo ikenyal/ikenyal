@@ -8,7 +8,7 @@ on:
       - scripts/**
       - .github/workflows/update-readme.yml
   schedule:
-    - cron: "17 21 * * 0" # every Monday 06:17 JST
+    - cron: "17 21 * * *" # every day 06:17 JST
   workflow_dispatch:
 
 permissions:

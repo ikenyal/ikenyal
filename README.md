@@ -87,7 +87,7 @@ The CLI said yes, the API said no.<br>
 
 ### Open source contributions
 
-<sub>Merged pull requests outside my own account. Updated weekly by GitHub Actions.</sub>
+<sub>Merged pull requests outside my own account. Checked daily by GitHub Actions; last changed on <!-- OSS_UPDATED:START -->2026-11-22<!-- OSS_UPDATED:END -->.</sub>
 
 <!-- OSS:START -->
 **90** merged pull requests across **17** public repositories.
