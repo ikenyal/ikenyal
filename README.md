@@ -87,10 +87,10 @@ The CLI said yes, the API said no.<br>
 
 ### Open source contributions
 
-<sub>Merged pull requests outside my own account. Checked daily by GitHub Actions; last changed on <!-- OSS_UPDATED:START -->2026-11-22<!-- OSS_UPDATED:END -->.</sub>
+<sub>Merged pull requests outside my own account. Checked daily by GitHub Actions; last changed on <!-- OSS_UPDATED:START -->2026-11-24<!-- OSS_UPDATED:END -->.</sub>
 
 <!-- OSS:START -->
-**90** merged pull requests across **17** public repositories.
+**91** merged pull requests across **17** public repositories.
 
 | Repository | Merged PRs | Latest |
 | --- | ---: | --- |
@@ -98,8 +98,8 @@ The CLI said yes, the API said no.<br>
 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | [3](https://github.com/strands-agents/harness-sdk/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [fix(bash): preserve UTF-8 across output chunk boundaries](https://github.com/strands-agents/harness-sdk/pull/5067) <sub>2026-11-18</sub><br>[feat(tools): add Python tool registry removal](https://github.com/strands-agents/harness-sdk/pull/5444) <sub>2026-10-26</sub><br>[feat(mcp): expose tool client accessor](https://github.com/strands-agents/harness-sdk/pull/4863) <sub>2026-10-07</sub> |
 | [strands-agents/shell](https://github.com/strands-agents/shell) | [3](https://github.com/strands-agents/shell/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [fix(curl): follow protocol-relative redirects](https://github.com/strands-agents/shell/pull/144) <sub>2026-11-21</sub><br>[fix(tail): avoid preallocating from the requested line count](https://github.com/strands-agents/shell/pull/319) <sub>2026-11-19</sub><br>[test: remove resolved command lookup difference marker](https://github.com/strands-agents/shell/pull/315) <sub>2026-11-18</sub> |
 | [aws-amplify-jp/awesome-aws-amplify-ja](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja) | [7](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [リンク切れを検出する GitHub Actions を追加](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/pull/46) <sub>2026-10-22</sub><br>[コントリビューションガイドラインを具体的な内容に置き換え](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/pull/45) <sub>2026-10-22</sub><br>[package.json のライセンス表記とリポジトリURLを実態に合わせる](https://github.com/aws-amplify-jp/awesome-aws-amplify-ja/pull/44) <sub>2026-10-22</sub> |
+| [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) | [2](https://github.com/strands-labs/strands-decider/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [fix(modeling): reject missing decoder weights](https://github.com/strands-labs/strands-decider/pull/135) <sub>2026-11-24</sub><br>[fix(cli): select devices for evaluation and calibration](https://github.com/strands-labs/strands-decider/pull/71) <sub>2026-10-14</sub> |
 | [strands-agents/evals](https://github.com/strands-agents/evals) | [1](https://github.com/strands-agents/evals/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [fix(mappers): preserve embedded CloudWatch span events](https://github.com/strands-agents/evals/pull/522) <sub>2026-11-16</sub> |
-| [strands-labs/strands-decider](https://github.com/strands-labs/strands-decider) | [1](https://github.com/strands-labs/strands-decider/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [fix(cli): select devices for evaluation and calibration](https://github.com/strands-labs/strands-decider/pull/71) <sub>2026-10-14</sub> |
 | [strands-agents/box](https://github.com/strands-agents/box) | [1](https://github.com/strands-agents/box/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [docs(box): remove stale lifecycle command guidance](https://github.com/strands-agents/box/pull/103) <sub>2026-10-12</sub> |
 | [strands-agents/samples](https://github.com/strands-agents/samples) | [1](https://github.com/strands-agents/samples/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [docs: add optional uv setup to Python quick start](https://github.com/strands-agents/samples/pull/322) <sub>2026-10-09</sub> |
 | [aws-amplify-jp/docs](https://github.com/aws-amplify-jp/docs) | [1](https://github.com/aws-amplify-jp/docs/pulls?q=is%3Apr+is%3Amerged+author%3Aikenyal) | [READMEにローカル環境構築手順を追加](https://github.com/aws-amplify-jp/docs/pull/1) <sub>2026-06-02</sub> |
