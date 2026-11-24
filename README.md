@@ -15,11 +15,18 @@ Engineering leader in Japan. I lead platform teams, build AI agents on AWS, cont
 
 ### Hackathon gallery
 
-<sub><!-- HACKATHON_COUNT:START -->8 projects so far.<!-- HACKATHON_COUNT:END --> Click a thumbnail to watch the demo video.</sub>
+<sub><!-- HACKATHON_COUNT:START -->9 projects so far.<!-- HACKATHON_COUNT:END --> Click a thumbnail to watch the demo video.</sub>
 
 <!-- HACKATHONS:START -->
 <table>
 <tr>
+<td width="33%" valign="top">
+<a href="https://github.com/ikenyal/ready-for-midnight-patch"><img src="assets/ready-for-midnight-patch.png" width="100%" alt="ready-for-midnight-patch"></a><br>
+<b><a href="https://github.com/ikenyal/ready-for-midnight-patch">ready-for-midnight-patch</a></b><br>
+<sub>AWS Builder Center: Agents, your rules · 2026-11</sub><br>
+One friendly lie sent a prompt-only agent into production. Rules enforced outside the model held every run.<br>
+<sub><a href="https://github.com/ikenyal/ready-for-midnight-patch">Repo</a> · <a href="https://builder.aws.com/project/3MXnnqpCRIUt95dgUf2mDzCP86W/ready-for-the-midnight-patch-one-friendly-lie-sent-my-prompt-only-agent-into-production-layered-rules-held-18-out-of-18">Builder Center</a></sub>
+</td>
 <td width="33%" valign="top">
 <a href="https://youtu.be/xcE3E--qAE0"><img src="https://img.youtube.com/vi/xcE3E--qAE0/mqdefault.jpg" width="100%" alt="Standby"></a><br>
 <b><a href="https://github.com/ikenyal/standby">Standby</a></b><br>
@@ -34,6 +41,8 @@ The waitlist that lives in your calendar — seats move with calendar RSVPs.<br>
 Don&#x27;t trust the comment. Test it. A Kiro Power that executes the claims comments make.<br>
 <sub><a href="https://github.com/ikenyal/spec-lantern">Repo</a> · <a href="https://d2xayupxggkiqt.cloudfront.net/">Demo</a> · <a href="https://youtu.be/H2C7ndx9C8c">Video</a> · <a href="https://devpost.com/software/spec-lantern">Devpost</a> · <a href="https://dev.to/aws-builders/blocking-an-ai-agents-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-steering-i90">Article</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://youtu.be/g-c1zFYKtQg"><img src="https://img.youtube.com/vi/g-c1zFYKtQg/mqdefault.jpg" width="100%" alt="Kokoroe"></a><br>
 <b><a href="https://github.com/ikenyal/kokoroe">Kokoroe</a></b><br>
@@ -41,8 +50,6 @@ Don&#x27;t trust the comment. Test it. A Kiro Power that executes the claims com
 An AI apprentice that inherits the unwritten etiquette of business, one correction at a time.<br>
 <sub><a href="https://github.com/ikenyal/kokoroe">Repo</a> · <a href="https://kokoroe.xzan0gz3dgpb8.ap-northeast-1.cs.amazonlightsail.com/">Demo</a> · <a href="https://youtu.be/g-c1zFYKtQg">Video</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://youtu.be/vdDsHZdrnAI"><img src="https://img.youtube.com/vi/vdDsHZdrnAI/mqdefault.jpg" width="100%" alt="Brownout"></a><br>
 <b><a href="https://github.com/ikenyal/brownout">Brownout</a></b><br>
@@ -57,6 +64,8 @@ When disaster strikes, a city website should get lighter, not go down.<br>
 Guess which AWS Region is behind a ping time — a map made of milliseconds.<br>
 <sub><a href="https://github.com/ikenyal/ping-guessr">Repo</a> · <a href="https://main.d9yfexyaaygj6.amplifyapp.com">Demo</a> · <a href="https://youtu.be/e_NYVXOEmB8">Video</a> · <a href="https://builder.aws.com/project/3LQyC2MMpISqFAqZkiW0wpRgnmw/ping-guessr-a-map-made-of-milliseconds">Builder Center</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <a href="https://youtu.be/T8Q7sD_7cb0"><img src="https://img.youtube.com/vi/T8Q7sD_7cb0/mqdefault.jpg" width="100%" alt="Open Yet?"></a><br>
 <b><a href="https://github.com/ikenyal/open-yet">Open Yet?</a></b> &nbsp;🏆 Top 5<br>
@@ -64,8 +73,6 @@ Guess which AWS Region is behind a ping time — a map made of milliseconds.<br>
 An agent that tells you whether you can post your challenge entry right now — in your time zone.<br>
 <sub><a href="https://github.com/ikenyal/open-yet">Repo</a> · <a href="https://youtu.be/T8Q7sD_7cb0">Video</a> · <a href="https://builder.aws.com/project/3L5RyY26ZApKozqF0h17bdePVzu/wait-is-it-open-yet-my-agents-new-reminder-was-an-hour-early-so-i-took-the-clock-away-from-it">Builder Center</a> · <a href="https://builder.aws.com/content/3KRsW9OLGmvEMpEBrSQeDvLw7AH/open-yet-an-agent-that-tells-you-whether-you-can-post-your-challenge-entry-right-now">Article</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <a href="https://youtu.be/24JUh9kNzmo"><img src="https://img.youtube.com/vi/24JUh9kNzmo/mqdefault.jpg" width="100%" alt="Countersign"></a><br>
 <b><a href="https://github.com/ikenyal/countersign">Countersign</a></b><br>
@@ -80,7 +87,6 @@ Two agents settle the routine agreements. Humans countersign only the ones that 
 The CLI said yes, the API said no.<br>
 <sub><a href="https://builder.aws.com/project/3JYtSJfGnxyg7FN1WvHhaBfMeEE/firsthand-the-cli-said-yes-the-api-said-no">Builder Center</a></sub>
 </td>
-<td width="33%"></td>
 </tr>
 </table>
 <!-- HACKATHONS:END -->

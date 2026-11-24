@@ -11,6 +11,14 @@
 #   image    (optional) thumbnail path/URL when there is no video
 #   repo / demo / devpost / project / article   (optional) links
 
+- name: ready-for-midnight-patch
+  tagline: One friendly lie sent a prompt-only agent into production. Rules enforced outside the model held every run.
+  event: "AWS Builder Center: Agents, your rules"
+  date: 2026-11
+  image: assets/ready-for-midnight-patch.png
+  repo: https://github.com/ikenyal/ready-for-midnight-patch
+  project: https://builder.aws.com/project/3MXnnqpCRIUt95dgUf2mDzCP86W/ready-for-the-midnight-patch-one-friendly-lie-sent-my-prompt-only-agent-into-production-layered-rules-held-18-out-of-18
+
 - name: Standby
   tagline: The waitlist that lives in your calendar — seats move with calendar RSVPs.
   event: "AWS Builder Center Weekend Challenge: No Pipeline, No Problem"
