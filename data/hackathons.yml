@@ -11,6 +11,14 @@
 #   image    (optional) thumbnail path/URL when there is no video
 #   repo / demo / devpost / project / article   (optional) links
 
+- name: Standby, reviewed
+  tagline: The Well-Architected Review skill found seats that could go to nobody. One fix, proven on the live stack (10 of 10 empty → 0).
+  event: "AWS Builder Center: Let the Agent Review you"
+  date: 2026-11
+  youtube: 506DQ_KeT9s
+  repo: https://github.com/ikenyal/standby/tree/fix/h2-seat-recovery
+  project: https://builder.aws.com/project/3MesV5baehlBA2ZxtL7oWKrQiMC/standby-it-could-never-give-a-seat-to-two-people-it-could-give-a-seat-to-nobody
+
 - name: ready-for-midnight-patch
   tagline: One friendly lie sent a prompt-only agent into production. Rules enforced outside the model held every run.
   event: "AWS Builder Center: Agents, your rules"
