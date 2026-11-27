@@ -62,7 +62,7 @@ An AI apprentice that inherits the unwritten etiquette of business, one correcti
 <b><a href="https://github.com/ikenyal/brownout">Brownout</a></b><br>
 <sub>Strands SDK: Workshop to Ship · 2026-11</sub><br>
 When disaster strikes, a city website should get lighter, not go down.<br>
-<sub>🏆 Article recognized as Tier 1 (top 10) in an AWS Community Builders writing contest (CB Speed Run 2)</sub><br>
+<sub>🏆 <a href="https://builder.aws.com/content/3Mc0aUdLmACiQSYCYfRCBaxkm4Y/aws-community-builders-speed-run-2-winners">Article recognized as Tier 1 (top 10 of 130) in an AWS Community Builders writing contest (CB Speed Run 2)</a></sub><br>
 <sub><a href="https://github.com/ikenyal/brownout">Repo</a> · <a href="https://d3u5pnxb6mo4pr.cloudfront.net/">Demo</a> · <a href="https://youtu.be/vdDsHZdrnAI">Video</a> · <a href="https://builder.aws.com/project/3LTPNT7Xv23bBrmWVM6biX0sjev/brownout-an-ai-agent-that-makes-a-city-website-lighter-as-a-disaster-gets-worse">Builder Center</a> · <a href="https://builder.aws.com/content/3MFOOYp749rNC6I3z7hCrpABPRN/when-a-flood-alert-is-issued-serve-one-small-emergency-page-on-every-url-cloudfront-keyvaluestore-a-template-and-an-ai-agent-kept-off-the-critical-path">Article</a></sub>
 </td>
 </tr>

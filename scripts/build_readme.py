@@ -78,7 +78,10 @@ def card(item: dict) -> str:
     lines.append(f"<sub>{esc(item['event'])} · {esc(item['date'])}</sub><br>")
     lines.append(f"{esc(item['tagline'])}<br>")
     if item.get("award"):
-        lines.append(f"<sub>🏆 {esc(item['award'])}</sub><br>")
+        award = esc(item["award"])
+        if item.get("award_url"):
+            award = f'<a href="{esc(item["award_url"])}">{award}</a>'
+        lines.append(f"<sub>🏆 {award}</sub><br>")
 
     links = []
     for key, label in LINK_LABELS:
